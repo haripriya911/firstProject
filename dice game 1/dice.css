@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    
+}
+
+body{
+    background-color:black;
+}
+h1{
+    font-family: cursive;
+    color: skyblue;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    
+    
+}
+p{
+    font-family: cursive;
+    color: springgreen;
+    font-size: 2rem;
+    
+}
+img{
+    width:50%;
+}

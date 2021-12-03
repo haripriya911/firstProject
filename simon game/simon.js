@@ -12,7 +12,7 @@ $(document).keypress(function(event){
         nextSequence( );
         started=true;
     }
-    //console.log("value",event.key)
+    console.log("value",event.key)
   });
 
 
